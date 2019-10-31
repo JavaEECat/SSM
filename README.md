@@ -6,5 +6,7 @@
 3.	教师模块：个人信息的查询，成绩录入管理、查看课程安排。
 
 责任描述：及负责模块的代码实现，编码中对代码进行检查,处理bug,提高性能。
+
 开发环境：jdk1.8+MySql+tomcat8.0
+
 主要技术：该项目采用jsp、javascript、Spring、SpringMVC、MyBatis等技术，使用Bootstrap前端框架。
